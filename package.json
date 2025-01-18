@@ -1,0 +1,23 @@
+{
+  "name": "@buckitup/js-encryption",
+  "version": "1.0.0",
+  "description": "JS encryption layer for BuckitUp",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Buckitup-chat/js-encryption.git"
+  },
+  "keywords": [
+    "BuckitUp",
+    "encryption"
+  ],
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Buckitup-chat/js-encryption/issues"
+  },
+  "homepage": "https://github.com/Buckitup-chat/js-encryption#readme"
+}
